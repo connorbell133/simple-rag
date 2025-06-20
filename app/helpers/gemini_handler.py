@@ -14,17 +14,6 @@ logging.basicConfig(level=logging.INFO)
 
 
 class GeminiHandler:
-    """
-    Handlers for the Gemini API
-
-    Attributes:
-        model (GenerativeModel): Instance of GenerativeModel.
-
-    Methods:
-        __init__():
-            Initialize the GeminiHandler.
-    """
-
     def __init__(self):
         """
         Initialize the GeminiHandler
