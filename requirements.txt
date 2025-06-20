@@ -12,3 +12,6 @@ google-cloud-storage
 numpy
 uvicorn[standard]
 websockets
+pytest
+pre-commit
+pytest-mock
